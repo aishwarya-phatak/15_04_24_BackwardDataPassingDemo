@@ -7,5 +7,5 @@
 
 import Foundation
 protocol BackDataPassing{
-    func passStudentData()
+    func passStudentData(student : Student)
 }
